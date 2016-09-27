@@ -1,0 +1,26 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Andrii Tytar work exp",
+  "main": "index.js",
+  "scripts": {
+    "resume": "resume",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/faustman/cv.git"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "author": "Andrii Tytar <andrii.tytar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faustman/cv/issues"
+  },
+  "homepage": "https://github.com/faustman/cv#readme",
+  "dependencies": {
+    "resume-cli": "^0.4.14"
+  }
+}
